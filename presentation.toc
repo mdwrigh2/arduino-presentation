@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{Hardware}{5}{0}{2}
+\beamer@sectionintoc {3}{Software}{31}{0}{3}
